@@ -1,0 +1,21 @@
+name: my_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - torchaudio==0.13.1
+  - pytorch==1.13.1
+  - pytorch-cuda=11.6
+  - torchvision==0.14.1
+  - ipykernel
+  - pip
+  - pip:
+      - numpy==1.23.4
+      - scipy==1.9.3
+      - tensorboardX==2.5.1
+      - tqdm==4.64.1
+      - tokenizers==0.13.2
+      - pyprojroot==0.2.0
+      - pandas==1.5.2
+      - scikit-learn==1.2.0
