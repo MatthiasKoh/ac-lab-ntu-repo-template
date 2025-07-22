@@ -9,3 +9,9 @@ This is a README file for the Repo Template
 conda env create -f environment.yaml
 conda activate my_env
 ```
+
+## Inference
+
+## Evaluation
+
+## Key files and folders
