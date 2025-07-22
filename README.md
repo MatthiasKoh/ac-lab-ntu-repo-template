@@ -1,2 +1,2 @@
-# ac-lab-ntu-repo-template
-AC Lab Repo Template
+# AC LAB NTU Repo Template
+This is a README file for the Repo Template
